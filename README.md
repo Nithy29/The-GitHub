@@ -212,9 +212,6 @@ In the landscape of modern software development, GitHub stands as a testament to
 
 
 
-<!-- [Vidoes
-](./Starter_Code/KaseiCoinCrowdsale.com) -->
-
 
 
 <br><br>
